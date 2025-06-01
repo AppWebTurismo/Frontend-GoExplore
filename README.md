@@ -60,7 +60,7 @@ frontend/
 
 ## Integración con Backend
 
-Este frontend está diseñado para trabajar con el [backend de GoExplore](link-al-repo-backend).
+Este frontend está diseñado para trabajar con el [backend de GoExplore](https://github.com/AppWebTurismo/Backend-GoExplore.git).
 Las plantillas están configuradas para funcionar con Flask y utilizan Jinja2 para el renderizado dinámico.
 
 ## Instalación y Uso
@@ -68,4 +68,23 @@ Las plantillas están configuradas para funcionar con Flask y utilizan Jinja2 pa
 1. Clona este repositorio
 2. Asegúrate de tener el backend configurado
 3. Sigue las instrucciones de instalación del backend
-4. Las plantillas se cargarán automáticamente cuando el servidor Flask esté corriendo 
+4. Las plantillas se cargarán automáticamente cuando el servidor Flask esté corriendo
+
+## Estado del Proyecto y Contribuciones
+
+🚧 **Proyecto en Desarrollo Activo** 🚧
+
+Este proyecto se encuentra en desarrollo continuo como parte de nuestra formación académica. Estamos comprometidos con la mejora constante y el aprendizaje.
+
+### Sugerencias y Feedback
+- Todas las sugerencias son bienvenidas y apreciadas
+- Si encuentras algún problema o tienes ideas para mejoras, no dudes en:
+  - Abrir un "Issue" en GitHub
+  - Contactar a cualquier miembro del equipo
+  - Proponer cambios mediante "Pull Requests"
+
+### Contacto
+Para cualquier duda, sugerencia o retroalimentación, puedes contactar al equipo de desarrollo a través de:
+- GitHub: https://github.com/AppWebTurismo
+
+¡Gracias por tu interés en GoExplore! 🚀 
